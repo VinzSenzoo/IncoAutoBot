@@ -1,0 +1,17 @@
+{
+  "name": "NT Exhaust - INCO Auto Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "VinSenzo",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.7",
+    "figlet": "^1.8.0"
+  }
+}
