@@ -16,8 +16,7 @@ const ERC20ABI = [
   "function mint(address _to, uint256 _amount)",
   "function wrap(uint256 tokenID_)",
   "function unwrap(uint256 tokenID_)",
-  "function approve(address spender, uint256 amount) returns (bool)",
-  "function transfer(address to, bytes data)"
+  "function approve(address spender, uint256 amount) returns (bool)"
 ];
 
 let walletInfo = {
